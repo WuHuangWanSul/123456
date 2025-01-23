@@ -26,7 +26,7 @@ local QW = Main:section("其他",true)
 
 local FISCHt = Window:Tab("FISCH
 ",'16060333448')
-localFISCH =FISCHt:section("FISCH",true)
+localFISCH = FISCHt:section("FISCH",true)
 
 local SKQSt = Window:Tab("鲨口求生2",'16060333448')
 local SKQS = SKQSt:section("鲨口&求生",true)
